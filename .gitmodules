@@ -5,7 +5,7 @@
 [submodule "riscv-gcc"]
 	path = riscv-gcc
 	url = https://github.com/riscv-collab/riscv-gcc.git
-	branch = riscv-gcc-10.2.0
+	branch = riscv-gcc-rvv-next
 [submodule "glibc"]
 	path = glibc
 	url = git://sourceware.org/git/glibc.git
